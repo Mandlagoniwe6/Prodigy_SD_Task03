@@ -18,10 +18,10 @@ JSON: File format for storing and managing contact data persistently.
 
 How to Run the Project
 Clone the repository:
-git clone https://github.com/your-username/contact-management-system.git
+git clone https://github.com/Mandlagoniwe6/Prodigy_SD_Task03.git
 
 Navigate to the project directory:
-cd contact-management-system
+cd Prodigy_SD_Task03
 
 Install Python (if not already installed) from python.org.
 Run the application:
