@@ -27,6 +27,8 @@ Install Python (if not already installed) from python.org.
 Run the application:
 python contacts.py
 
+Double tap on a contact to edit
+
 contacts.py          Main application code
 contacts.json    JSON file for storing contact data
 README.md        Project documentation
